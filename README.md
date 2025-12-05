@@ -1,113 +1,209 @@
-# SuryaPrakash K - Portfolio
+# Surya Prakash - AI/ML & Cybersecurity Engineer
 
-> AI/ML Engineer & Aspiring Cybersecurity Specialist | Building intelligent systems with a focus on security architecture
+> **Results-driven Information Security Analyst transitioning into AI-driven Cybersecurity**
+> Combines 4 years of hands-on experience in network defense, cloud security, and incident response with advanced knowledge in Artificial Intelligence and Machine Learning.
+> Specializes in developing and applying ML models for threat prediction, anomaly detection, and automated security operations (AIOps).
+> **Location:** Tiruppur, Tamil Nadu, India
 
 ---
 
 ## 👋 About Me
 
-I'm an AI/ML engineer transitioning into cybersecurity, based in Bangalore. My passion lies in building robust AI systems and designing secure architectures. I'm actively seeking opportunities to apply machine learning techniques to cybersecurity challenges.
+I'm an experienced Information Security Analyst with a strong foundation in network defense, cloud security, and incident response. Currently transitioning into AI-driven cybersecurity with expertise in machine learning for threat prediction and anomaly detection. My passion is leveraging AI to enhance security resilience, optimize detection capabilities, and reduce human response time in cybersecurity ecosystems.
 
 ### 🎯 Current Focus
-- **AI/ML Development**: Building scalable machine learning pipelines and data engineering solutions
-- **Cybersecurity**: Specializing in Fortinet FortiGate and Juniper security products
-- **Data Science**: Exploratory Data Analysis (EDA), data preprocessing, and visualization
-- **Automation**: Creating workflow automation solutions with tools like n8n
+
+- **AI/ML for Cybersecurity**: Developing machine learning models for threat prediction, anomaly detection, and automated security operations (AIOps)
+- **Network Security Architecture**: Designing and deploying secure network infrastructure using Fortinet and Juniper products
+- **Cloud Security**: AWS Security, compliance with ISO and GDPR standards
+- **Data Engineering**: Building ML pipelines for security analytics and threat intelligence
+- **Security Automation**: Automating incident response and network hardening with PowerShell and Bash
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- **Python**: Core programming language for ML/AI projects
-- **JavaScript**: Web development and automation
-- **SQL**: Data querying and management
+### Cybersecurity Infrastructure
+- **Firewalls & Network Security**: Fortinet FortiGate, Cisco, Aruba
+- **Cloud Security**: AWS Security, Security Groups, VPC Configuration
+- **Network Defense**: SD-WAN Deployment, IDS/IPS, SIEM, Threat Intelligence
+- **Security Tools**: Wireshark, Nmap, Burp Suite, Windows Defender
+- **Compliance**: ISO Standards, GDPR, SOC 2
 
-### ML & Data Science
-- TensorFlow & Keras
-- Scikit-learn
-- Pandas & NumPy
-- Tableau (Data Visualization)
+### AI & Machine Learning
+- **Libraries**: Scikit-learn, PyTorch, TensorFlow, Keras
+- **Data Processing**: Python, Pandas, NumPy
+- **NLP & Computer Vision**: Natural Language Processing, Computer Vision
+- **Model Optimization**: Hyperparameter tuning, Model evaluation
+- **Data Science**: Exploratory Data Analysis (EDA), Feature Engineering
 
-### Cybersecurity
-- Fortinet FortiGate
-- Juniper Security Products
-- Network Security Architecture
-- Security Infrastructure Design
+### Programming & Development
+- **Languages**: Python, PowerShell, Bash
+- **Web Development**: HTML, CSS, JavaScript
+- **Databases**: SQL, Data Management
+- **Tools**: Git, GitHub, Jupyter Notebooks, VS Code
 
-### Development & Tools
-- Git & GitHub
-- Jupyter Notebooks
-- n8n (Workflow Automation)
-- Docker (Containerization)
+### Data Visualization & Analytics
+- **Tableau**: Dashboard creation and data visualization
+- **Matplotlib & Seaborn**: Python-based visualization
+- **Jupyter Notebooks**: Interactive analysis and documentation
 
----
-
-## 📚 Featured Projects
-
-Check out my [GitHub repositories](https://github.com/SuryaPrakash-root) for detailed project implementations:
-
-- **Phonepay Project** - Payment analysis and ML insights
-- **YouTube ML Analysis** - YouTube data analysis and ML modeling
-- **Amazon Music Clustering** - Clustering analysis on music data
-- **Image Classification** - Multiclass fish image classification
-- **Luxury Housing Analysis** - Real estate data analysis
+### Development & Deployment
+- **Containerization**: Docker
+- **Version Control**: Git & GitHub
+- **Automation**: n8n (Workflow Automation), Microsoft SCCM
+- **CI/CD**: Automated deployment pipelines
 
 ---
 
 ## 💼 Professional Experience
 
-### Security Engineer
-- Hands-on experience with firewall configuration and network security
-- Experience with enterprise security tools and protocols
-- Security infrastructure design and implementation
+### Information Security Analyst
+**Lingaasys Technology, Tiruppur, TN** | *Sep 2021 - Present*
 
-### Data Engineer/ML Engineer
-- Building ML pipelines for data-driven solutions
-- EDA and data preprocessing workflows
-- ML model development and optimization
+**Key Achievements:**
+- Designed and deployed Fortinet SD-WAN across 21 branches, improving secure connectivity and network performance
+- Configured Fortinet Firewalls with advanced security policies, IPS, and traffic management capabilities
+- Led cryptocurrency mining investigation: Identified and neutralized unauthorized crypto mining on corporate systems
+- Conducted AWS Cloud migration ensuring data integrity and compliance with ISO and GDPR standards
+- Automated endpoint patching and deployment using Microsoft SCCM, reducing manual intervention
+- Delivered 40% risk reduction through network hardening and proactive security analytics
+- Developed incident response playbooks and comprehensive policy documentation for audit readiness
+- Collaborated with cross-functional teams to implement AI-based threat monitoring prototypes for log analysis
+
+**Technical Responsibilities:**
+- Network security infrastructure design and maintenance
+- Firewall configuration and management
+- Incident response and threat analysis
+- Security compliance and audit preparation
+- Cloud security assessment and implementation
 
 ---
 
-## 🎓 Skills & Competencies
+## 🧠 AI/ML Project Portfolio
 
-### Core Competencies
+### Featured AI/ML Projects
+
+1. **Chatbot using Hugging Face**
+   - Built a conversational AI chatbot leveraging transformer-based NLP for contextual responses
+   - Tech: Hugging Face, Transformers, Python
+
+2. **Face Detection & Style Transfer**
+   - Applied CNNs and Neural Style Transfer for real-time artistic face transformations
+   - Tech: PyTorch, OpenCV, Computer Vision
+
+3. **Customer Feedback Analysis with NLP**
+   - Implemented sentiment analysis and text summarization using deep learning and text mining
+   - Tech: NLTK, TextBlob, Python
+
+4. **PhonePay Transaction Fraud Detection**
+   - Developed ML model for transaction fraud detection and anomaly analysis
+   - Tech: Scikit-learn, Pandas, Python
+
+5. **Luxury Housing Sales Analysis**
+   - Applied regression models for market trend prediction and price analytics
+   - Tech: Scikit-learn, Matplotlib, Python
+
+6. **Content Monetization Modeler**
+   - Built predictive models to optimize ad monetization and user engagement
+   - Tech: Scikit-learn, Pandas, Python
+
+7. **Amazon Music Clustering**
+   - Applied unsupervised clustering to group user preferences and listening patterns
+   - Tech: Scikit-learn, Python
+
+8. **Multiclass Fish Image Classification**
+   - Trained CNN model for fish species classification with high accuracy
+   - Tech: TensorFlow, Keras, Python
+
+---
+
+## 📚 Core Competencies
+
+### Security & Infrastructure
+- Cybersecurity Architecture & Design
+- Network Security & Defense
+- Firewall Configuration & Management
+- Cloud Security (AWS)
+- Incident Response & Threat Analysis
+- Security Infrastructure Design
+- Compliance & Audit Management
+- Endpoint Security
+
+### AI & Machine Learning
 - Machine Learning & Deep Learning
+- Threat Prediction Models
+- Anomaly Detection Systems
+- Natural Language Processing (NLP)
+- Computer Vision
 - Data Engineering & Processing
-- Cybersecurity Architecture
-- Network Security
-- Data Analysis & Visualization
+- Model Development & Optimization
+- Feature Engineering
+
+### Data Science & Analytics
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing & Cleaning
+- Statistical Analysis
+- Data Visualization
+- Time Series Analysis
+
+### Development & Tools
 - Python Development
 - Automation & Workflow Design
+- CI/CD Pipeline Implementation
+- Security Tool Administration
+- Technical Documentation
 
-### Professional Tools
-- Tableau - Data Visualization & Dashboard Creation
-- Fortinet FortiGate - Network Security
-- n8n - Workflow Automation
-- Jupyter - Exploratory Data Analysis
-- GitHub - Version Control & Collaboration
+---
+
+## 🎓 Certifications
+
+- **Certified Ethical Hacker (CEH)**
+- **Microsoft Certified Solutions Expert (MCSE)**
+- **Cisco Certified Network Associate (CCNA)**
+- **Red Hat Linux (RHL)**
+- **Fortinet NSE 1, 2, 3** (Network Security Expert)
+- **IITM Pravartak** - Advanced AI/ML Certification
+
+---
+
+## 🏫 Education
+
+**Bachelor of Engineering in Mechatronics**
+Anna University, Coimbatore, Tamil Nadu | 2020
+
+---
+
+## 🌱 Community Contributions
+
+- **OWASP Coimbatore Volunteer**: Conducted cybersecurity awareness and threat simulation sessions
+- **DEFCON India**: Participated in cybersecurity awareness initiatives
+- **Internal Workshops**: Conducted training on AI in Cybersecurity and security automation
+- **Employee Training**: Promoted cybersecurity awareness campaigns for employees and students
 
 ---
 
 ## 🔗 Connect With Me
 
-- **GitHub**: [SuryaPrakash-root](https://github.com/SuryaPrakash-root)
+- **Email**: [Suryaprakash.kzohomail.in](mailto:Suryaprakash.kzohomail.in)
 - **LinkedIn**: [surya-prakash5522](https://linkedin.com/in/surya-prakash5522)
-- **Creedly Profile**: [suryaprakash](https://www.credly.com/users/suryaprakash)
-- **Location**: Bangalore, Karnataka, India
+- **GitHub**: [SuryaPrakash-root](https://github.com/SuryaPrakash-root)
+- **Credly Profile**: [suryaprakash](https://www.credly.com/users/suryaprakash)
+- **Location**: Tiruppur, Tamil Nadu, India
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Quick Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaPrakash-root&show_icons=true&theme=dark)
+- **Years of Experience**: 4+ years in cybersecurity
+- **Focus Areas**: AI/ML for Cybersecurity, Network Security, Cloud Security
+- **Key Skills**: Fortinet FortiGate, AWS, Python, Machine Learning, Network Defense
+- **Current Goal**: Building AI-powered threat detection and response systems
 
 ---
 
 ## 📄 License
 
 This portfolio is open source. Feel free to fork and adapt it for your needs.
-
----
 
 **Last Updated**: December 2025
